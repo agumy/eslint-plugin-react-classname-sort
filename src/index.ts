@@ -1,7 +1,7 @@
-import noLiteral from "./rules/no-literal";
+import order from "./rules/order";
 
 export = {
   rules: {
-    "no-literal": noLiteral,
+    "order": order,
   },
 };
