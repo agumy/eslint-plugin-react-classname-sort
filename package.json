@@ -30,7 +30,7 @@
     "order",
     "sort"
   ],
-  "author": "Quramy",
+  "author": "agumy",
   "license": "MIT",
   "devDependencies": {
     "@types/eslint": "7.2.6",
