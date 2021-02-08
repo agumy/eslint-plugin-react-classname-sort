@@ -1,6 +1,6 @@
 {
   "name": "@agumy/eslint-plugin-react-classname-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React className order rules for ESLint",
   "main": "lib/index.js",
   "repository": {
