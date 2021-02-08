@@ -1,8 +1,12 @@
 {
   "name": "@agumy/eslint-plugin-react-classname-sort",
   "version": "1.0.0",
-  "description": "A tutorial repository to create your first eslint rule",
+  "description": "React className order rules for ESLint",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agumy/eslint-plugin-react-classname-sort.git"
+  },
   "scripts": {
     "start-tutorial": "rimraf \"src/rules/**/*\" && rimraf src/index.ts && npm un @typescript-eslint/parser",
     "clean": "rimraf lib",
@@ -21,8 +25,10 @@
   ],
   "keywords": [
     "eslint",
-    "typescript",
-    "example"
+    "react",
+    "className",
+    "order",
+    "sort"
   ],
   "author": "Quramy",
   "license": "MIT",
